@@ -1,0 +1,3 @@
+yarn / yarn install
+yarn build (optional)
+yarn start == start server
